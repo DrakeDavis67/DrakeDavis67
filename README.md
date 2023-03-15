@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
- 
+- <b>Excel Projects(Pivot Tables, PowerQ,VLook UP)</b>
+ <b>SQL Projects</b>
+ <b>Tableau Dashboards (Visualization)</b>
 <h2> Certifications </h2>
 
 
