@@ -6,6 +6,7 @@
 - <b>SQL Projects</b>
 - <b>Tableau Dashboards (Visualization)</b>
 <h2> Certifications </h2>
+-SQL For Data Science by UC Davis
+-Google Data Analytics 
 
 
-Here are some ideas to get you started:
