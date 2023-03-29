@@ -6,7 +6,8 @@
 - <b>SQL Projects</b>
 - <b>Tableau Dashboards (Visualization)</b>
 <h2> Certifications </h2>
-- <b>SQL For Data Science by UC Davis
+  
+- <b>SQL For Data Science by UC Davis</b>
 - <b>Google Data Analytics 
 
 
